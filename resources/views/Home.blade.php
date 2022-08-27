@@ -66,35 +66,69 @@
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Senior Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                            <h3 class="mb-0"> Web Developer</h3>
+                            <div class="subheading mb-3">Workceptive</div>
+                            <p>Creating Laravel projects for clients and working on companys project as well.Developing Backend for website and change Bootstrap design according to requirement given  and creating Api for front-end developer as welll.</p>
+                            <div class="subheading mb-2">Some Projects done</div>
+                            <p> Project : Magic Bakers<br>
+                                Link :<a href="https://www.magicbakers.in" target="_blank" > https://www.magicbakers.in</a></p>
+
+                            <p> Project : Swag<br>
+                                Link :<a href="https://swag.ind.in" target="_blank" > https://swag.ind.in</a></p>
+
+                            <p> Project : Magic Gifts<br>
+                                Link :<a href="https://magicgifts.in/" target="_blank" > https://magicgifts.in</a></p>
+
+                            <p> Project : Workceptive<br>
+                                Link :<a href="https://workceptive.com/" target="_blank" > https://workceptive.com</a></p>
+
+                            <p> Project : Saswath<br>
+                                Link :<a href="http://saswathgroup.com/" target="_blank" > http://saswathgroup.com</a></p>
+
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">October 2021 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Web Developer</h3>
-                            <div class="subheading mb-3">Intelitec Solutions</div>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                            <h3 class="mb-0">Junior Full Stack  Developer & Hardware technician</h3>
+                            <div class="subheading mb-3">SPOTLINESOLUTIONS</div>
+                            <p>Creating Bootstrap design for clients according to requirement. Creating Backend for website using php and laravel framework  like
+                                cms for website  etc . Assembleing and repairing Computers and cerating and  repairing network was part of my job as well .
+                            </p>
+                            <div class="subheading mb-2">Some Projects done</div>
+                            <p> Project : Higrangeparadise<br>
+                                Link :<a href="http://www.highrangeparadise.com/" target="_blank" >http://www.highrangeparadise.com</a></p>
+
+                            <p> Project : F&D<br>
+                                Link :<a href="http://www.flangeanddeck.com/" target="_blank" > http://www.flangeanddeck.com</a></p>
+
+                            <p> Project : Spotlinesolutions<br>
+                                Link :<a href="http://www.spotlinesolutions.com/" target="_blank" > http://www.spotlinesolutions.com</a></p>
+
+                            <p> Project : Jeeva Studio<br>
+                                Link :<a href="http://www.jeevadigitalstudio.com/" target="_blank" > http://www.jeevadigitalstudio.com</a></p>
+
+                            {{-- <p> Project : Saswath<br>
+                                Link :<a href="http://saswathgroup.com/" target="_blank" > http://saswathgroup.com</a></p> --}}
+
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">October 2019 - September 2021</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Junior Web Designer</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                            <h3 class="mb-0">Computer Hardware technician</h3>
+                            <div class="subheading mb-3">DIGI LINK</div>
+                            <p> Assembleing and repairing Computers and cerating and  repairing network was part of my job as well .</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2018 - September 2019</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Web Design Intern</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                            <div class="subheading mb-3">WEB THECHNOLOGIES</div>
+                            <p>Create css design for  website according to client requirement editing images and create water mark and testing the website where my roles.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2017 - February 2018</span></div>
                     </div>
                 </div>
             </section>
@@ -105,20 +139,30 @@
                     <h2 class="mb-5">Education</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">University of Colorado Boulder</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science - Web Development Track</div>
-                            <p>GPA: 3.23</p>
+                            <h3 class="mb-0">Kerala State Board of Technical Education</h3>
+                            <div class="subheading mb-3">Diploma in Computer Engineering</div>
+                            <div>Government Polytechnic College Vechoochira</div>
+                            <p>GPA: 6.81</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary"> 2017 </span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">James Buchanan High School</h3>
-                            <div class="subheading mb-3">Technology Magnet Program</div>
-                            <p>GPA: 3.56</p>
+                            <h3 class="mb-0">Kerala State Board</h3>
+                            <div class="subheading mb-3">Higher Secondary in Science (+2)</div>
+                            <div>GovtHSS, Thiruvandoor</div>
+                            <p>61.66%</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary"> 2012 </span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Kerala State Board</h3>
+                            <div class="subheading mb-3">SSLC</div>
+                            <div>GovtHSS, Thiruvandoor</div>
+                            <p>75%</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"> 2010 </span></div>
                     </div>
                 </div>
             </section>
