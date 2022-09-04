@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
-        <meta name="author" content="Arun" />
+        <meta name="author" content="Arun S Kurup" />
         <title>Arun S Kurup</title>
         <link rel="icon" type="image/x-icon" href="{{asset('assets/img/letter-a.png')}}" />
         <!-- Font Awesome icons (free version)-->
@@ -30,7 +30,8 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                    <li class="nav-item"><a class="nav-link " href="{{asset("pdf/Resume.pdf")}}" target="_blank" >Download Resume</a></li>
+                    {{-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li> --}}
                 </ul>
             </div>
         </nav>
@@ -176,14 +177,13 @@
                         <li class="list-inline-item"><i class="fab fa-html5"></i></li>
                         <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
                         <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-laravel"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-php"></i></li>
                         <li class="list-inline-item"><i class="fab fa-sass"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
+                        {{-- <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li> --}}
                         <li class="list-inline-item"><i class="fab fa-npm"></i></li>
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
@@ -212,13 +212,13 @@
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
-                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. i love to ride the bike and go to mountains and when not traveling i love to hangout with my friend and create new projects .</p>
+                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the  web development world.</p>
                 </div>
             </section>
             <hr class="m-0" />
             <!-- Awards-->
-            <section class="resume-section" id="awards">
+            {{-- <section class="resume-section" id="awards">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Awards & Certifications</h2>
                     <ul class="fa-ul mb-0">
@@ -262,7 +262,7 @@
                         </li>
                     </ul>
                 </div>
-            </section>
+            </section> --}}
         </div>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
